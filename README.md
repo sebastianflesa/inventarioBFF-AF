@@ -26,9 +26,3 @@ Los endpoints disponibles corresponden a la gestión de **productos** y **bodega
 | POST   | `/api/bodegas/deleteBodega/{id}`        | [POST Delete Bodega](https://inventariog13-hdgugedfgmazcxd6.eastus2-01.azurewebsites.net/api/bodegas/delete/{id}) |
 
 ---
-
-{
-  "nombre": "Laptop",
-  "precio": 1200,
-  "stock": 15
-}
